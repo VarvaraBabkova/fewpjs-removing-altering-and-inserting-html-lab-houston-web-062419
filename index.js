@@ -1,1 +1,1 @@
-document.removeChild(document.querySelector("#main"));
+document.querySelector("#main").remove();
