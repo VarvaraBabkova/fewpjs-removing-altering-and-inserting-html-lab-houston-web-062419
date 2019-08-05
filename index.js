@@ -1,3 +1,3 @@
 document.querySelector("#main").remove();
-let newHeader = document.querySelector("#victory");
+let newHeader = document.querySelector("h1#victory");
 newHeader.innerHTML = "YOUR-NAME is the champion";
